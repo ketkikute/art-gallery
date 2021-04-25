@@ -1,3 +1,11 @@
-.card-img-top{
-	height: 300px;
+.card-img-top {
+  height: 300px;
+}
+
+.profile {
+  text-align: center;
+}
+
+img {
+  border: 3px solid #fff;
 }
